@@ -1,6 +1,7 @@
 * This package consists of two parts:
   * Descriptive Analytics 
   * Predictive Analytics
+
 Each part is in a separate Ipython Notebook. 
   
 ## Descriptive Analytics 
